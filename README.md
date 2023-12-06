@@ -1,1 +1,1 @@
-# blog-mocking-fs-and-glob-modules-with-jest
+This is repository for the blog post: [Mocking fs and glob modules with Jest](https://marek-rozmus.medium.com/mocking-fs-and-glob-modules-with-jest-6930adec5d30?source=friends_link&sk=4b01c371e1d979bd4429f9af7053e480)
