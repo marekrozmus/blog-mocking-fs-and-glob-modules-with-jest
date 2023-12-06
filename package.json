@@ -1,0 +1,26 @@
+{
+  "name": "blog-mocking-fs-and-glob-modules-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/post-build run",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marekrozmus/blog-mocking-fs-and-glob-modules-with-jest.git"
+  },
+  "author": "Marek Rozmus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marekrozmus/blog-mocking-fs-and-glob-modules-with-jest/issues"
+  },
+  "homepage": "https://github.com/marekrozmus/blog-mocking-fs-and-glob-modules-with-jest#readme",
+  "dependencies": {
+    "glob": "^10.3.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
